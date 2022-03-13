@@ -1,0 +1,10 @@
+E:\Hosam\3rd Computers\C++ Data Structure\XO Algorithm\XOGUI\XOGUI\x64\Debug\XOGUI.MyForm.resources
+E:\Hosam\3rd Computers\C++ Data Structure\XO Algorithm\XOGUI\XOGUI\x64\Debug\XOGUI.vcxproj.GenerateResource.cache
+E:\Hosam\3rd Computers\C++ Data Structure\XO Algorithm\XOGUI\XOGUI\x64\Debug\XOGUI.vcxproj.AssemblyReference.cache
+C:\Users\Ahmed Ayman\Downloads\XOGUI\XOGUI\x64\Debug\XOGUI.vcxproj.AssemblyReference.cache
+C:\Users\Ahmed Ayman\Downloads\XOGUI\XOGUI\x64\Debug\XOGUI.MyForm.resources
+C:\Users\Ahmed Ayman\Downloads\XOGUI\XOGUI\x64\Debug\XOGUI.vcxproj.GenerateResource.cache
+C:\Users\Ahmed Ayman\Downloads\Compressed\XOGUI\XOGUI\x64\Debug\XOGUI.vcxproj.AssemblyReference.cache
+C:\Users\Ahmed Ayman\Downloads\Compressed\XOGUI\XOGUI\x64\Debug\XOGUI.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Ahmed Ayman\Downloads\Compressed\XOGUI\XOGUI\x64\Debug\XOGUI.MyForm.resources
+C:\Users\Ahmed Ayman\Downloads\Compressed\XOGUI\XOGUI\x64\Debug\XOGUI.vcxproj.GenerateResource.cache
